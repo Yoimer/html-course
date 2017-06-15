@@ -18,8 +18,8 @@ h3 { color: #666; font-size: 140%; }
 
 #header {
 	height: 40px;
-	/*background: #351a0a;#00FF00*/
-	background: #00FF00;
+	background: #351a0a;
+	/*background: #00FF00;*/
 	border-bottom: 8px solid #d66018;
 }
 

@@ -2,13 +2,13 @@
 
 html { min-height: 102%; }
 
-body {
+/*body {
 	background: #ffffff;
 	color: black;
 	font: 13px sans-serif, vernada, arial;
 	margin: 0;
 	min-width: 640px;
-}
+}*/
 
 a { text-decoration: underline; color: #215090; }
 a:hover { text-decoration: none; color: blue; }
@@ -18,9 +18,10 @@ h3 { color: #666; font-size: 140%; }
 
 #header {
 	height: 40px;
-	background: #351a0a;
-	/*background: #00FF00;*/
-	border-bottom: 8px solid #d66018;
+	/*background: #351a0a; 	#0000FF*/
+	background:#0000FF;
+	/*border-bottom: 8px solid #d66018;*/
+	border-bottom: 8px solid #000000;
 }
 
 #header h1 {
@@ -42,4 +43,5 @@ h3 { color: #666; font-size: 140%; }
 	color: #666;
 }
 
-#footer a { color: #666; padding: 0 2px; }
+/*#footer a { color: #666; padding: 0 2px; }*/
+#footer a { color: #0000FF; padding: 0 2px; }
